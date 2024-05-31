@@ -15,6 +15,10 @@
 
 * Baffle: [Nylon Mesh (10 Micron)](https://www.amazon.com/gp/product/B08X23FN6R)
 
+* Rear Tuning tape: [3M Micropore Tape](https://www.amazon.com/dp/B000O62TK4?)
+
+* Rear Damping Material [Geekria Tuning Foam](https://www.amazon.com/dp/B07WN8SWHR/)
+
 * Screws: [M3 FHSC Screws recommended kit](https://www.amazon.com/gp/product/B086MC31JT)
 
 * Brass Inserts: [M3x5x5 Brass Heatset inserts](https://www.amazon.com/gp/product/B07TZ37HXJ)
