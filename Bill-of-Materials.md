@@ -1,15 +1,13 @@
 # The following are the specific items and materials required to create the Ouroboros Headphones
 
-* Pads: 
-  [Yaxi Pads (Leather)](https://www.amazon.com/dp/B07G5B257L)
+* Pads: [Yaxi Pads (Leather)](https://www.amazon.com/dp/B07G5B257L)
 
 * Speakers: [60mm speaker unit balance,loud field 32ohms 2pcs](https://www.aliexpress.us/item/3256804580176672.html?)
-  <p>(I'm not sure what is going on but the listing keeps changing so let us know if the link is dead the speakers look like the below picture; support@capraaudio.com)</p>
+<br />**(This listing is known to change, if this link no longer works please contact our support email of support@capraaudio.com)**<br />
 
 ![image](https://github.com/CapraAudio/Ouroboros/assets/122894651/b80aa3d7-c9ff-4767-9533-78dfbd948aec)
 
-
-* Connectors: [Mini XLR Connectors](https://www.amazon.com/dp/B07GTDWNM4) or [3.5mm Connectors](https://www.amazon.com/gp/product/B07MN1RK7F)
+* Connectors: [3-Pin Mini-XLR Connectors](https://www.amazon.com/dp/B07GTDWNM4) or [3.5mm Connectors](https://www.amazon.com/gp/product/B07MN1RK7F)
 
 * Wire: [22 gauge](https://www.amazon.com/dp/B077XBWX8V)
 
