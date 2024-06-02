@@ -1,6 +1,7 @@
 # Ouroboros Closed Back Headphones
 
-![20240310_103819](https://github.com/CapraAudio/Ouroboros/assets/122894651/e75926d7-b381-496a-a7c3-488ec568728b)
+![20240602_152320](https://github.com/CapraAudio/Ouroboros/assets/122894651/5f7df51f-2c67-4968-ab98-33abea2476cf)
+
 
 **Ouroboros** is a closed-back headphone designed for people who value high quality audio. It sports a dark-leaning tuning and a comfortable bass shelf making this headphone sound both fun and high fidelity.<br /> The ring-radiator driver (similar to the one on the legendary HD800 and HD800s) is the reason behind the name **"Ouroboros"**, as when we first laid eyes upon it we were reminded of the serpent eating its tail.<br /> Although the driver is sold as a "coaxial dual driver" speaker, we do not use the small beryllium tweeter as a speaker, instead we de-solder the connections to it and allow it to operate as a passive radiator between the front and rear volumes.
 
