@@ -24,3 +24,5 @@
 ### [Support Discord](https://discord.gg/fb4HdDvErF)
 
 This model is set to [Creative Commons - Attribution - Noncommercial - NoDerivatives] because it is designed purposefully, any changes to the design by anyone other than Capra Audio would no longer be the Ouroboros. This includes using the wrong speakers, wrong pads, or missing or wrong front/rear damping materials. The Ouroboros is the complete unit itself. It is hard to design and tune a headphone to be good and we do not want our name associated with a potentially worse version of our design.
+
+![20240602_151516](https://github.com/CapraAudio/Ouroboros/assets/122894651/3317380e-96f0-4199-8781-265e4c6a60a4)
