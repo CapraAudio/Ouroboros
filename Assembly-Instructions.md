@@ -1,4 +1,4 @@
-# NOTICE WIP
+# NOTICE
 
 It is very important to follow all of these steps to the letter, devating from any of these steps will result in a poorly tuned headphone. If at the end your headphones sound off or wrong give it a few days of listening before you make judgements or try to make changes, if you are used to bad headphones it may take you time to get used to good headphones.
 
