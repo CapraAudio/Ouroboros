@@ -7,6 +7,10 @@ It is very important to follow all of these steps to the letter, devating from a
 
 ![20240604_181722](https://github.com/CapraAudio/Ouroboros/assets/122894651/34b0e1d8-1f3d-46d9-83df-b0898cfd3bb9)
 
+- Remove the capacitor from the driver as we wont be needing it and it will only get in the way going forward.
+
+![20240604_181733](https://github.com/CapraAudio/Ouroboros/assets/122894651/2dee1a70-9c33-4397-851e-b49d7afa33f8)
+
 - Cut a small piece of the 3M Micropore tape and use 1 layer of it to cover the rear vent on the driver.
 
 ![20240604_181757](https://github.com/CapraAudio/Ouroboros/assets/122894651/fef6a752-ea0a-4829-8d5c-ffdd20c7733d)
