@@ -2,6 +2,8 @@
 
 It is very important to follow all of these steps to the letter, devating from any of these steps will result in a poorly tuned headphone. If at the end your headphones sound off or wrong give it a few days of listening before you make judgements or try to make changes, if you are used to bad headphones it may take you time to get used to good headphones.
 
+# Or watch [Here](https://youtu.be/O5NK4CFDEhY)
+
 ## Prepping the Driver
 - Remove the two wires connecting the center speaker to the outer PCB. We arent going to be using that center speaker as a speaker, but instead as a passive radiator.
 
