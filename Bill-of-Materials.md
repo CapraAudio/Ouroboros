@@ -19,7 +19,7 @@
 
 * Screws: [M3 FHSC Screws recommended kit](https://www.amazon.com/gp/product/B086MC31JT)
 
-* Brass Inserts: [M3x5x5 Brass Heatset inserts](https://www.amazon.com/dp/B08BCRZZS3)
+* Brass Inserts: [M3x4x5.7 Brass Heatset inserts](https://www.amazon.com/dp/B08BCRZZS3)
 
 Screws required for the speaker housings:
 
