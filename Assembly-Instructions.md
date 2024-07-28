@@ -23,7 +23,7 @@ It is very important to follow all of these steps to the letter, devating from a
 
 ## Assembling the Cup
 
-- First Set all 6 of the Brass inserts into the Rear housings{A}, 5 around the rim and one in the tuning port as shown in the picture.
+- First Set all 6 of the Brass inserts into the Rear housings{A}, 5 around the rim and one in the tuning port as shown in the picture. (Do not use an insert on the side port if you are using the 3.5mm connector)
 ![20240602_210608](https://github.com/CapraAudio/Ouroboros/assets/122894651/4f8393a5-325a-4e9a-9258-2e74354fd907)
 ![20240602_210645](https://github.com/CapraAudio/Ouroboros/assets/122894651/d5a52364-f075-4734-a9b5-80b2622a1e23)
 
