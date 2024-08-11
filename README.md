@@ -19,6 +19,8 @@
 
 ### [Assembly Instructions](https://github.com/CapraAudio/Ouroboros/blob/main/Assembly-Instructions.md)
 
+### [Speaker Capsule Files](https://www.printables.com/model/908999-satyr-2-audiophile-open-back-headphones/files)
+
 ### [Files for the Headband](https://www.printables.com/model/429232-capra-headband-v2)
 
 ### [Support Discord](https://discord.gg/fb4HdDvErF)
