@@ -2,7 +2,7 @@
 
 * Pads: [Yaxi Pads (Leather)](https://www.amazon.com/dp/B07G5B257L)
 
-* Speakers: [60mm speaker unit balance,loud field 32ohms 2pcs](https://www.aliexpress.us/item/3256804580176672.html?)
+* Speakers: [60mm speaker unit balance,loud field 32ohms 2pcs](https://www.aliexpress.com/item/1005004840197368.html) or [here](https://www.aliexpress.com/item/1005007418230939.html)or [here](https://www.aliexpress.us/item/3256807231916187.html)
 <br />**(This listing is known to change, if this link no longer works please contact our support email of support@capraaudio.com)**<br />
 
 ![image](https://github.com/CapraAudio/Ouroboros/assets/122894651/b80aa3d7-c9ff-4767-9533-78dfbd948aec)
