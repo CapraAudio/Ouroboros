@@ -9,6 +9,10 @@
 
 * Connectors: [3-Pin Mini-XLR Connectors](https://www.amazon.com/dp/B07GTDWNM4) or [3.5mm Connectors](https://www.amazon.com/gp/product/B07MN1RK7F)
 
+* Headphone cable:
+  - [3-Pin Mini-XLR Connectors]: Compatible with Audeze, Meze, and ZMF dual 4-pin mini-xlr headphone cables.
+  - [3.5mm Connectors]: Compatible with Hifiman and Focal dual 3.5mm headpone cables.
+
 * Wire: [22 gauge](https://www.amazon.com/dp/B077XBWX8V)
 
 * Baffle: [Nylon Mesh (10 Micron)](https://www.amazon.com/gp/product/B08X23FN6R)
