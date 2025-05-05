@@ -19,7 +19,7 @@
 
 * Screws: [M3 FHSC Screws recommended kit](https://www.amazon.com/gp/product/B086MC31JT?&linkCode=ll1&tag=capraaudio-20&linkId=abe5d8c31cfe08b197c5421dfdee8ac8&language=en_US&ref_=as_li_ss_tl)
 
-* Brass Inserts: [M3x4x5.7 Brass Heatset inserts](https://www.amazon.com/dp/B0CDH36ZMX?&linkCode=ll1&tag=capraaudio-20&linkId=92c2094e12d09acf605f935b380a1899&language=en_US&ref_=as_li_ss_tl)
+* Brass Inserts: [M3x4x5.7 Brass Heatset inserts](https://amzn.to/4jFsPyi)
 
 Screws required for the speaker housings:
 
