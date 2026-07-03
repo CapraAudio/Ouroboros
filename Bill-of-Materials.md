@@ -2,8 +2,7 @@
 
 * Pads: [Yaxi Pads (Leather)](https://www.amazon.com/dp/B07G5B257L?th=1&linkCode=ll1&tag=capraaudio-20&linkId=6e95fdf177f8eb8dd2d48bfa0b1ff858&language=en_US&ref_=as_li_ss_tl)
 
-* Speakers: [60mm speaker unit balance,loud field 32ohms 2pcs](https://www.aliexpress.com/item/1005004840197368.html) or [here](https://www.aliexpress.com/item/1005007418230939.html)or [here](https://www.aliexpress.us/item/3256807231916187.html)
-<br />**(This listing is known to change, if this link no longer works please contact our support email of support@capraaudio.com)**<br />
+* Speakers: 60mm speaker unit balance,loud field 32ohms 2pcs (Can be found on AliExpress with the below picture or can be salvaged from a TurtleBeach Recon 500, you can find them cheap on Ebay!
 
 ![image](https://github.com/CapraAudio/Ouroboros/assets/122894651/b80aa3d7-c9ff-4767-9533-78dfbd948aec)
 
